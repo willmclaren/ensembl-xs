@@ -1,9 +1,9 @@
 	
 			    Bio::EnsEMBL::XS
 
-			     Version 1.1.1
+			     Version 1.2.0
 
-			   6th December 2013
+			    16th July 2014
 
      Copyright [1999- 2014] Wellcome Trust Sanger Institute and the 
 	         EMBL-European Bioinformatics Institute
@@ -12,9 +12,9 @@
 OBTAINING THE ENSEMBL API EXTENSIONS
 ------------------------------------
 
-The latest version can be obtained by cloning the Sanger internal git repository:
+The latest version can be obtained by cloning the github repository:
 
-    git clone ssh://git.internal.sanger.ac.uk/repos/git/ensembl/ensembl-xs.git 
+    git clone https://github.com/Ensembl/ensembl-xs.git
 
 
 PREREQUISITES
